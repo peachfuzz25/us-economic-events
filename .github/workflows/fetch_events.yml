@@ -1,4 +1,4 @@
-```yaml
+yaml
 name: Fetch US Economic Events
 
 on:
@@ -35,4 +35,3 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
