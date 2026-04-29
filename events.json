@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-04-28T02:37:17.300932+00:00",
-    "total_events": 145,
+    "generated_utc": "2026-04-29T02:37:14.296351+00:00",
+    "total_events": 144,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-04-29T02:37:17.300939+00:00"
+    "next_update": "2026-04-30T02:37:14.296359+00:00"
   },
   "events": [
     {
@@ -72,17 +72,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1773790200000
-    },
-    {
-      "name": "New Home Sales",
-      "time_utc": "2026-04-28T18:00:00+00:00",
-      "time_bkk": "2026-04-29T01:00:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1777399200000
     },
     {
       "name": "ISM Manufacturing PMI",
