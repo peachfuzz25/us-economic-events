@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-05-01T02:44:10.248970+00:00",
-    "total_events": 144,
+    "generated_utc": "2026-05-02T02:26:46.494451+00:00",
+    "total_events": 143,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-05-02T02:44:10.248977+00:00"
+    "next_update": "2026-05-03T02:26:46.494458+00:00"
   },
   "events": [
     {
@@ -72,17 +72,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1773790200000
-    },
-    {
-      "name": "ISM Manufacturing PMI",
-      "time_utc": "2026-05-01T16:00:00+00:00",
-      "time_bkk": "2026-05-01T23:00:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1777651200000
     },
     {
       "name": "ISM Services PMI",
