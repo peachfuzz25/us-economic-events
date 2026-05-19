@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-05-18T02:56:06.749821+00:00",
-    "total_events": 137,
+    "generated_utc": "2026-05-19T02:52:30.439457+00:00",
+    "total_events": 135,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-05-19T02:56:06.749833+00:00"
+    "next_update": "2026-05-20T02:52:30.439467+00:00"
   },
   "events": [
     {
@@ -105,28 +105,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1777937400000
-    },
-    {
-      "name": "Housing Starts",
-      "time_utc": "2026-05-18T16:30:00+00:00",
-      "time_bkk": "2026-05-18T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1779121800000
-    },
-    {
-      "name": "Building Permits",
-      "time_utc": "2026-05-18T16:30:00+00:00",
-      "time_bkk": "2026-05-18T23:30:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1779121800000
     },
     {
       "name": "Durable Goods Orders",
