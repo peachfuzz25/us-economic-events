@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-06-25T02:52:01.478853+00:00",
-    "total_events": 120,
+    "generated_utc": "2026-06-26T02:57:45.036328+00:00",
+    "total_events": 118,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-06-26T02:52:01.478858+00:00"
+    "next_update": "2026-06-27T02:57:45.036336+00:00"
   },
   "events": [
     {
@@ -138,28 +138,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1781652600000
-    },
-    {
-      "name": "Durable Goods Orders",
-      "time_utc": "2026-06-25T16:30:00+00:00",
-      "time_bkk": "2026-06-25T23:30:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1782405000000
-    },
-    {
-      "name": "Existing Home Sales",
-      "time_utc": "2026-06-25T18:00:00+00:00",
-      "time_bkk": "2026-06-26T01:00:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1782410400000
     },
     {
       "name": "Personal Income",
