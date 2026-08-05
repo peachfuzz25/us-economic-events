@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-08-04T02:07:26.153624+00:00",
-    "total_events": 97,
+    "generated_utc": "2026-08-05T02:06:13.698854+00:00",
+    "total_events": 96,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-08-05T02:07:26.153631+00:00"
+    "next_update": "2026-08-06T02:06:13.698860+00:00"
   },
   "events": [
     {
@@ -171,17 +171,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1785281400000
-    },
-    {
-      "name": "Jobless Claims",
-      "time_utc": "2026-08-04T16:30:00+00:00",
-      "time_bkk": "2026-08-04T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1785861000000
     },
     {
       "name": "Employment Report (NFP)",
