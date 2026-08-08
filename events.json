@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-08-07T02:27:55.110862+00:00",
-    "total_events": 96,
+    "generated_utc": "2026-08-08T01:16:21.212852+00:00",
+    "total_events": 95,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-08-08T02:27:55.110870+00:00"
+    "next_update": "2026-08-09T01:16:21.212861+00:00"
   },
   "events": [
     {
@@ -171,17 +171,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1785281400000
-    },
-    {
-      "name": "Employment Report (NFP)",
-      "time_utc": "2026-08-07T16:30:00+00:00",
-      "time_bkk": "2026-08-07T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1786120200000
     },
     {
       "name": "CPI Release",
