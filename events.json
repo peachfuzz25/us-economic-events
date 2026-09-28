@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-09-27T03:25:58.858841+00:00",
-    "total_events": 73,
+    "generated_utc": "2026-09-28T03:23:37.735647+00:00",
+    "total_events": 70,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-09-28T03:25:58.858850+00:00"
+    "next_update": "2026-09-29T03:23:37.735654+00:00"
   },
   "events": [
     {
@@ -204,39 +204,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1789601400000
-    },
-    {
-      "name": "Personal Income",
-      "time_utc": "2026-09-27T16:30:00+00:00",
-      "time_bkk": "2026-09-27T23:30:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1790526600000
-    },
-    {
-      "name": "PCE Price Index",
-      "time_utc": "2026-09-27T16:30:00+00:00",
-      "time_bkk": "2026-09-27T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1790526600000
-    },
-    {
-      "name": "Personal Spending",
-      "time_utc": "2026-09-27T17:30:00+00:00",
-      "time_bkk": "2026-09-28T00:30:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1790530200000
     },
     {
       "name": "New Home Sales",
