@@ -1,8 +1,8 @@
 // ===== Auto-Generated Event Arrays (DO NOT EDIT MANUALLY) =====
-// Generated: 2026-10-01T03:54:29.049332+00:00
-// Total Events: 69
+// Generated: 2026-10-02T03:51:44.153571+00:00
+// Total Events: 68
 
-var int EVENT_COUNT = 69
+var int EVENT_COUNT = 68
 var string[] event_names = array.new<string>(EVENT_COUNT)
 var int[] event_times_utc = array.new<int>(EVENT_COUNT)
 var string[] event_impact = array.new<string>(EVENT_COUNT)
@@ -135,359 +135,352 @@ array.set(event_impact, 17, "High")
 array.set(event_forecast, 17, "N/A")
 array.set(event_previous, 17, "N/A")
 
-// 18: ISM Manufacturing PMI - High - Hardcoded Schedule
-array.set(event_names, 18, "ISM Manufacturing PMI")
-array.set(event_times_utc, 18, timestamp("UTC", 2026, 10, 1, 16, 0))
-array.set(event_impact, 18, "High")
+// 18: ISM Services PMI - Medium - Hardcoded Schedule
+array.set(event_names, 18, "ISM Services PMI")
+array.set(event_times_utc, 18, timestamp("UTC", 2026, 10, 3, 16, 0))
+array.set(event_impact, 18, "Medium")
 array.set(event_forecast, 18, "N/A")
 array.set(event_previous, 18, "N/A")
 
-// 19: ISM Services PMI - Medium - Hardcoded Schedule
-array.set(event_names, 19, "ISM Services PMI")
-array.set(event_times_utc, 19, timestamp("UTC", 2026, 10, 3, 16, 0))
-array.set(event_impact, 19, "Medium")
+// 19: Jobless Claims - High - Hardcoded Schedule
+array.set(event_names, 19, "Jobless Claims")
+array.set(event_times_utc, 19, timestamp("UTC", 2026, 10, 4, 16, 30))
+array.set(event_impact, 19, "High")
 array.set(event_forecast, 19, "N/A")
 array.set(event_previous, 19, "N/A")
 
-// 20: Jobless Claims - High - Hardcoded Schedule
-array.set(event_names, 20, "Jobless Claims")
-array.set(event_times_utc, 20, timestamp("UTC", 2026, 10, 4, 16, 30))
+// 20: Employment Report (NFP) - High - Hardcoded Schedule
+array.set(event_names, 20, "Employment Report (NFP)")
+array.set(event_times_utc, 20, timestamp("UTC", 2026, 10, 7, 16, 30))
 array.set(event_impact, 20, "High")
 array.set(event_forecast, 20, "N/A")
 array.set(event_previous, 20, "N/A")
 
-// 21: Employment Report (NFP) - High - Hardcoded Schedule
-array.set(event_names, 21, "Employment Report (NFP)")
-array.set(event_times_utc, 21, timestamp("UTC", 2026, 10, 7, 16, 30))
+// 21: CPI Release - High - Hardcoded Schedule
+array.set(event_names, 21, "CPI Release")
+array.set(event_times_utc, 21, timestamp("UTC", 2026, 10, 12, 16, 30))
 array.set(event_impact, 21, "High")
 array.set(event_forecast, 21, "N/A")
 array.set(event_previous, 21, "N/A")
 
-// 22: CPI Release - High - Hardcoded Schedule
-array.set(event_names, 22, "CPI Release")
-array.set(event_times_utc, 22, timestamp("UTC", 2026, 10, 12, 16, 30))
+// 22: PPI Release - High - Hardcoded Schedule
+array.set(event_names, 22, "PPI Release")
+array.set(event_times_utc, 22, timestamp("UTC", 2026, 10, 13, 16, 30))
 array.set(event_impact, 22, "High")
 array.set(event_forecast, 22, "N/A")
 array.set(event_previous, 22, "N/A")
 
-// 23: PPI Release - High - Hardcoded Schedule
-array.set(event_names, 23, "PPI Release")
+// 23: Retail Sales - High - Hardcoded Schedule
+array.set(event_names, 23, "Retail Sales")
 array.set(event_times_utc, 23, timestamp("UTC", 2026, 10, 13, 16, 30))
 array.set(event_impact, 23, "High")
 array.set(event_forecast, 23, "N/A")
 array.set(event_previous, 23, "N/A")
 
-// 24: Retail Sales - High - Hardcoded Schedule
-array.set(event_names, 24, "Retail Sales")
-array.set(event_times_utc, 24, timestamp("UTC", 2026, 10, 13, 16, 30))
+// 24: Housing Starts - High - Hardcoded Schedule
+array.set(event_names, 24, "Housing Starts")
+array.set(event_times_utc, 24, timestamp("UTC", 2026, 10, 18, 16, 30))
 array.set(event_impact, 24, "High")
 array.set(event_forecast, 24, "N/A")
 array.set(event_previous, 24, "N/A")
 
-// 25: Housing Starts - High - Hardcoded Schedule
-array.set(event_names, 25, "Housing Starts")
+// 25: Building Permits - Medium - Hardcoded Schedule
+array.set(event_names, 25, "Building Permits")
 array.set(event_times_utc, 25, timestamp("UTC", 2026, 10, 18, 16, 30))
-array.set(event_impact, 25, "High")
+array.set(event_impact, 25, "Medium")
 array.set(event_forecast, 25, "N/A")
 array.set(event_previous, 25, "N/A")
 
-// 26: Building Permits - Medium - Hardcoded Schedule
-array.set(event_names, 26, "Building Permits")
-array.set(event_times_utc, 26, timestamp("UTC", 2026, 10, 18, 16, 30))
+// 26: Durable Goods Orders - Medium - Hardcoded Schedule
+array.set(event_names, 26, "Durable Goods Orders")
+array.set(event_times_utc, 26, timestamp("UTC", 2026, 10, 25, 16, 30))
 array.set(event_impact, 26, "Medium")
 array.set(event_forecast, 26, "N/A")
 array.set(event_previous, 26, "N/A")
 
-// 27: Durable Goods Orders - Medium - Hardcoded Schedule
-array.set(event_names, 27, "Durable Goods Orders")
-array.set(event_times_utc, 27, timestamp("UTC", 2026, 10, 25, 16, 30))
-array.set(event_impact, 27, "Medium")
+// 27: Existing Home Sales - High - Hardcoded Schedule
+array.set(event_names, 27, "Existing Home Sales")
+array.set(event_times_utc, 27, timestamp("UTC", 2026, 10, 25, 18, 0))
+array.set(event_impact, 27, "High")
 array.set(event_forecast, 27, "N/A")
 array.set(event_previous, 27, "N/A")
 
-// 28: Existing Home Sales - High - Hardcoded Schedule
-array.set(event_names, 28, "Existing Home Sales")
-array.set(event_times_utc, 28, timestamp("UTC", 2026, 10, 25, 18, 0))
-array.set(event_impact, 28, "High")
+// 28: Personal Income - Medium - Hardcoded Schedule
+array.set(event_names, 28, "Personal Income")
+array.set(event_times_utc, 28, timestamp("UTC", 2026, 10, 27, 16, 30))
+array.set(event_impact, 28, "Medium")
 array.set(event_forecast, 28, "N/A")
 array.set(event_previous, 28, "N/A")
 
-// 29: Personal Income - Medium - Hardcoded Schedule
-array.set(event_names, 29, "Personal Income")
+// 29: PCE Price Index - High - Hardcoded Schedule
+array.set(event_names, 29, "PCE Price Index")
 array.set(event_times_utc, 29, timestamp("UTC", 2026, 10, 27, 16, 30))
-array.set(event_impact, 29, "Medium")
+array.set(event_impact, 29, "High")
 array.set(event_forecast, 29, "N/A")
 array.set(event_previous, 29, "N/A")
 
-// 30: PCE Price Index - High - Hardcoded Schedule
-array.set(event_names, 30, "PCE Price Index")
-array.set(event_times_utc, 30, timestamp("UTC", 2026, 10, 27, 16, 30))
-array.set(event_impact, 30, "High")
+// 30: Personal Spending - Medium - Hardcoded Schedule
+array.set(event_names, 30, "Personal Spending")
+array.set(event_times_utc, 30, timestamp("UTC", 2026, 10, 27, 17, 30))
+array.set(event_impact, 30, "Medium")
 array.set(event_forecast, 30, "N/A")
 array.set(event_previous, 30, "N/A")
 
-// 31: Personal Spending - Medium - Hardcoded Schedule
-array.set(event_names, 31, "Personal Spending")
-array.set(event_times_utc, 31, timestamp("UTC", 2026, 10, 27, 17, 30))
+// 31: New Home Sales - Medium - Hardcoded Schedule
+array.set(event_names, 31, "New Home Sales")
+array.set(event_times_utc, 31, timestamp("UTC", 2026, 10, 28, 18, 0))
 array.set(event_impact, 31, "Medium")
 array.set(event_forecast, 31, "N/A")
 array.set(event_previous, 31, "N/A")
 
-// 32: New Home Sales - Medium - Hardcoded Schedule
-array.set(event_names, 32, "New Home Sales")
-array.set(event_times_utc, 32, timestamp("UTC", 2026, 10, 28, 18, 0))
-array.set(event_impact, 32, "Medium")
+// 32: ISM Manufacturing PMI - High - Hardcoded Schedule
+array.set(event_names, 32, "ISM Manufacturing PMI")
+array.set(event_times_utc, 32, timestamp("UTC", 2026, 11, 1, 17, 0))
+array.set(event_impact, 32, "High")
 array.set(event_forecast, 32, "N/A")
 array.set(event_previous, 32, "N/A")
 
-// 33: ISM Manufacturing PMI - High - Hardcoded Schedule
-array.set(event_names, 33, "ISM Manufacturing PMI")
-array.set(event_times_utc, 33, timestamp("UTC", 2026, 11, 1, 17, 0))
-array.set(event_impact, 33, "High")
+// 33: ISM Services PMI - Medium - Hardcoded Schedule
+array.set(event_names, 33, "ISM Services PMI")
+array.set(event_times_utc, 33, timestamp("UTC", 2026, 11, 3, 17, 0))
+array.set(event_impact, 33, "Medium")
 array.set(event_forecast, 33, "N/A")
 array.set(event_previous, 33, "N/A")
 
-// 34: ISM Services PMI - Medium - Hardcoded Schedule
-array.set(event_names, 34, "ISM Services PMI")
-array.set(event_times_utc, 34, timestamp("UTC", 2026, 11, 3, 17, 0))
-array.set(event_impact, 34, "Medium")
+// 34: FOMC Interest Rate Decision - High - Federal Reserve (Hardcoded)
+array.set(event_names, 34, "FOMC Interest Rate Decision")
+array.set(event_times_utc, 34, timestamp("UTC", 2026, 11, 4, 0, 0))
+array.set(event_impact, 34, "High")
 array.set(event_forecast, 34, "N/A")
 array.set(event_previous, 34, "N/A")
 
-// 35: FOMC Interest Rate Decision - High - Federal Reserve (Hardcoded)
-array.set(event_names, 35, "FOMC Interest Rate Decision")
+// 35: FOMC Economic Projections - High - Federal Reserve (Hardcoded)
+array.set(event_names, 35, "FOMC Economic Projections")
 array.set(event_times_utc, 35, timestamp("UTC", 2026, 11, 4, 0, 0))
 array.set(event_impact, 35, "High")
 array.set(event_forecast, 35, "N/A")
 array.set(event_previous, 35, "N/A")
 
-// 36: FOMC Economic Projections - High - Federal Reserve (Hardcoded)
-array.set(event_names, 36, "FOMC Economic Projections")
-array.set(event_times_utc, 36, timestamp("UTC", 2026, 11, 4, 0, 0))
+// 36: FOMC Press Conference - High - Federal Reserve (Hardcoded)
+array.set(event_names, 36, "FOMC Press Conference")
+array.set(event_times_utc, 36, timestamp("UTC", 2026, 11, 4, 0, 30))
 array.set(event_impact, 36, "High")
 array.set(event_forecast, 36, "N/A")
 array.set(event_previous, 36, "N/A")
 
-// 37: FOMC Press Conference - High - Federal Reserve (Hardcoded)
-array.set(event_names, 37, "FOMC Press Conference")
-array.set(event_times_utc, 37, timestamp("UTC", 2026, 11, 4, 0, 30))
+// 37: Jobless Claims - High - Hardcoded Schedule
+array.set(event_names, 37, "Jobless Claims")
+array.set(event_times_utc, 37, timestamp("UTC", 2026, 11, 4, 17, 30))
 array.set(event_impact, 37, "High")
 array.set(event_forecast, 37, "N/A")
 array.set(event_previous, 37, "N/A")
 
-// 38: Jobless Claims - High - Hardcoded Schedule
-array.set(event_names, 38, "Jobless Claims")
-array.set(event_times_utc, 38, timestamp("UTC", 2026, 11, 4, 17, 30))
+// 38: Employment Report (NFP) - High - Hardcoded Schedule
+array.set(event_names, 38, "Employment Report (NFP)")
+array.set(event_times_utc, 38, timestamp("UTC", 2026, 11, 7, 17, 30))
 array.set(event_impact, 38, "High")
 array.set(event_forecast, 38, "N/A")
 array.set(event_previous, 38, "N/A")
 
-// 39: Employment Report (NFP) - High - Hardcoded Schedule
-array.set(event_names, 39, "Employment Report (NFP)")
-array.set(event_times_utc, 39, timestamp("UTC", 2026, 11, 7, 17, 30))
+// 39: CPI Release - High - Hardcoded Schedule
+array.set(event_names, 39, "CPI Release")
+array.set(event_times_utc, 39, timestamp("UTC", 2026, 11, 12, 17, 30))
 array.set(event_impact, 39, "High")
 array.set(event_forecast, 39, "N/A")
 array.set(event_previous, 39, "N/A")
 
-// 40: CPI Release - High - Hardcoded Schedule
-array.set(event_names, 40, "CPI Release")
-array.set(event_times_utc, 40, timestamp("UTC", 2026, 11, 12, 17, 30))
+// 40: PPI Release - High - Hardcoded Schedule
+array.set(event_names, 40, "PPI Release")
+array.set(event_times_utc, 40, timestamp("UTC", 2026, 11, 13, 17, 30))
 array.set(event_impact, 40, "High")
 array.set(event_forecast, 40, "N/A")
 array.set(event_previous, 40, "N/A")
 
-// 41: PPI Release - High - Hardcoded Schedule
-array.set(event_names, 41, "PPI Release")
+// 41: Retail Sales - High - Hardcoded Schedule
+array.set(event_names, 41, "Retail Sales")
 array.set(event_times_utc, 41, timestamp("UTC", 2026, 11, 13, 17, 30))
 array.set(event_impact, 41, "High")
 array.set(event_forecast, 41, "N/A")
 array.set(event_previous, 41, "N/A")
 
-// 42: Retail Sales - High - Hardcoded Schedule
-array.set(event_names, 42, "Retail Sales")
-array.set(event_times_utc, 42, timestamp("UTC", 2026, 11, 13, 17, 30))
+// 42: Housing Starts - High - Hardcoded Schedule
+array.set(event_names, 42, "Housing Starts")
+array.set(event_times_utc, 42, timestamp("UTC", 2026, 11, 18, 17, 30))
 array.set(event_impact, 42, "High")
 array.set(event_forecast, 42, "N/A")
 array.set(event_previous, 42, "N/A")
 
-// 43: Housing Starts - High - Hardcoded Schedule
-array.set(event_names, 43, "Housing Starts")
+// 43: Building Permits - Medium - Hardcoded Schedule
+array.set(event_names, 43, "Building Permits")
 array.set(event_times_utc, 43, timestamp("UTC", 2026, 11, 18, 17, 30))
-array.set(event_impact, 43, "High")
+array.set(event_impact, 43, "Medium")
 array.set(event_forecast, 43, "N/A")
 array.set(event_previous, 43, "N/A")
 
-// 44: Building Permits - Medium - Hardcoded Schedule
-array.set(event_names, 44, "Building Permits")
-array.set(event_times_utc, 44, timestamp("UTC", 2026, 11, 18, 17, 30))
+// 44: Durable Goods Orders - Medium - Hardcoded Schedule
+array.set(event_names, 44, "Durable Goods Orders")
+array.set(event_times_utc, 44, timestamp("UTC", 2026, 11, 25, 17, 30))
 array.set(event_impact, 44, "Medium")
 array.set(event_forecast, 44, "N/A")
 array.set(event_previous, 44, "N/A")
 
-// 45: Durable Goods Orders - Medium - Hardcoded Schedule
-array.set(event_names, 45, "Durable Goods Orders")
-array.set(event_times_utc, 45, timestamp("UTC", 2026, 11, 25, 17, 30))
-array.set(event_impact, 45, "Medium")
+// 45: Existing Home Sales - High - Hardcoded Schedule
+array.set(event_names, 45, "Existing Home Sales")
+array.set(event_times_utc, 45, timestamp("UTC", 2026, 11, 25, 19, 0))
+array.set(event_impact, 45, "High")
 array.set(event_forecast, 45, "N/A")
 array.set(event_previous, 45, "N/A")
 
-// 46: Existing Home Sales - High - Hardcoded Schedule
-array.set(event_names, 46, "Existing Home Sales")
-array.set(event_times_utc, 46, timestamp("UTC", 2026, 11, 25, 19, 0))
-array.set(event_impact, 46, "High")
+// 46: Personal Income - Medium - Hardcoded Schedule
+array.set(event_names, 46, "Personal Income")
+array.set(event_times_utc, 46, timestamp("UTC", 2026, 11, 27, 17, 30))
+array.set(event_impact, 46, "Medium")
 array.set(event_forecast, 46, "N/A")
 array.set(event_previous, 46, "N/A")
 
-// 47: Personal Income - Medium - Hardcoded Schedule
-array.set(event_names, 47, "Personal Income")
+// 47: PCE Price Index - High - Hardcoded Schedule
+array.set(event_names, 47, "PCE Price Index")
 array.set(event_times_utc, 47, timestamp("UTC", 2026, 11, 27, 17, 30))
-array.set(event_impact, 47, "Medium")
+array.set(event_impact, 47, "High")
 array.set(event_forecast, 47, "N/A")
 array.set(event_previous, 47, "N/A")
 
-// 48: PCE Price Index - High - Hardcoded Schedule
-array.set(event_names, 48, "PCE Price Index")
-array.set(event_times_utc, 48, timestamp("UTC", 2026, 11, 27, 17, 30))
-array.set(event_impact, 48, "High")
+// 48: Personal Spending - Medium - Hardcoded Schedule
+array.set(event_names, 48, "Personal Spending")
+array.set(event_times_utc, 48, timestamp("UTC", 2026, 11, 27, 18, 30))
+array.set(event_impact, 48, "Medium")
 array.set(event_forecast, 48, "N/A")
 array.set(event_previous, 48, "N/A")
 
-// 49: Personal Spending - Medium - Hardcoded Schedule
-array.set(event_names, 49, "Personal Spending")
-array.set(event_times_utc, 49, timestamp("UTC", 2026, 11, 27, 18, 30))
+// 49: New Home Sales - Medium - Hardcoded Schedule
+array.set(event_names, 49, "New Home Sales")
+array.set(event_times_utc, 49, timestamp("UTC", 2026, 11, 28, 19, 0))
 array.set(event_impact, 49, "Medium")
 array.set(event_forecast, 49, "N/A")
 array.set(event_previous, 49, "N/A")
 
-// 50: New Home Sales - Medium - Hardcoded Schedule
-array.set(event_names, 50, "New Home Sales")
-array.set(event_times_utc, 50, timestamp("UTC", 2026, 11, 28, 19, 0))
-array.set(event_impact, 50, "Medium")
+// 50: ISM Manufacturing PMI - High - Hardcoded Schedule
+array.set(event_names, 50, "ISM Manufacturing PMI")
+array.set(event_times_utc, 50, timestamp("UTC", 2026, 12, 1, 17, 0))
+array.set(event_impact, 50, "High")
 array.set(event_forecast, 50, "N/A")
 array.set(event_previous, 50, "N/A")
 
-// 51: ISM Manufacturing PMI - High - Hardcoded Schedule
-array.set(event_names, 51, "ISM Manufacturing PMI")
-array.set(event_times_utc, 51, timestamp("UTC", 2026, 12, 1, 17, 0))
-array.set(event_impact, 51, "High")
+// 51: ISM Services PMI - Medium - Hardcoded Schedule
+array.set(event_names, 51, "ISM Services PMI")
+array.set(event_times_utc, 51, timestamp("UTC", 2026, 12, 3, 17, 0))
+array.set(event_impact, 51, "Medium")
 array.set(event_forecast, 51, "N/A")
 array.set(event_previous, 51, "N/A")
 
-// 52: ISM Services PMI - Medium - Hardcoded Schedule
-array.set(event_names, 52, "ISM Services PMI")
-array.set(event_times_utc, 52, timestamp("UTC", 2026, 12, 3, 17, 0))
-array.set(event_impact, 52, "Medium")
+// 52: Jobless Claims - High - Hardcoded Schedule
+array.set(event_names, 52, "Jobless Claims")
+array.set(event_times_utc, 52, timestamp("UTC", 2026, 12, 4, 17, 30))
+array.set(event_impact, 52, "High")
 array.set(event_forecast, 52, "N/A")
 array.set(event_previous, 52, "N/A")
 
-// 53: Jobless Claims - High - Hardcoded Schedule
-array.set(event_names, 53, "Jobless Claims")
-array.set(event_times_utc, 53, timestamp("UTC", 2026, 12, 4, 17, 30))
+// 53: Employment Report (NFP) - High - Hardcoded Schedule
+array.set(event_names, 53, "Employment Report (NFP)")
+array.set(event_times_utc, 53, timestamp("UTC", 2026, 12, 7, 17, 30))
 array.set(event_impact, 53, "High")
 array.set(event_forecast, 53, "N/A")
 array.set(event_previous, 53, "N/A")
 
-// 54: Employment Report (NFP) - High - Hardcoded Schedule
-array.set(event_names, 54, "Employment Report (NFP)")
-array.set(event_times_utc, 54, timestamp("UTC", 2026, 12, 7, 17, 30))
+// 54: CPI Release - High - Hardcoded Schedule
+array.set(event_names, 54, "CPI Release")
+array.set(event_times_utc, 54, timestamp("UTC", 2026, 12, 12, 17, 30))
 array.set(event_impact, 54, "High")
 array.set(event_forecast, 54, "N/A")
 array.set(event_previous, 54, "N/A")
 
-// 55: CPI Release - High - Hardcoded Schedule
-array.set(event_names, 55, "CPI Release")
-array.set(event_times_utc, 55, timestamp("UTC", 2026, 12, 12, 17, 30))
+// 55: PPI Release - High - Hardcoded Schedule
+array.set(event_names, 55, "PPI Release")
+array.set(event_times_utc, 55, timestamp("UTC", 2026, 12, 13, 17, 30))
 array.set(event_impact, 55, "High")
 array.set(event_forecast, 55, "N/A")
 array.set(event_previous, 55, "N/A")
 
-// 56: PPI Release - High - Hardcoded Schedule
-array.set(event_names, 56, "PPI Release")
+// 56: Retail Sales - High - Hardcoded Schedule
+array.set(event_names, 56, "Retail Sales")
 array.set(event_times_utc, 56, timestamp("UTC", 2026, 12, 13, 17, 30))
 array.set(event_impact, 56, "High")
 array.set(event_forecast, 56, "N/A")
 array.set(event_previous, 56, "N/A")
 
-// 57: Retail Sales - High - Hardcoded Schedule
-array.set(event_names, 57, "Retail Sales")
-array.set(event_times_utc, 57, timestamp("UTC", 2026, 12, 13, 17, 30))
+// 57: FOMC Interest Rate Decision - High - Federal Reserve (Hardcoded)
+array.set(event_names, 57, "FOMC Interest Rate Decision")
+array.set(event_times_utc, 57, timestamp("UTC", 2026, 12, 16, 0, 0))
 array.set(event_impact, 57, "High")
 array.set(event_forecast, 57, "N/A")
 array.set(event_previous, 57, "N/A")
 
-// 58: FOMC Interest Rate Decision - High - Federal Reserve (Hardcoded)
-array.set(event_names, 58, "FOMC Interest Rate Decision")
+// 58: FOMC Economic Projections - High - Federal Reserve (Hardcoded)
+array.set(event_names, 58, "FOMC Economic Projections")
 array.set(event_times_utc, 58, timestamp("UTC", 2026, 12, 16, 0, 0))
 array.set(event_impact, 58, "High")
 array.set(event_forecast, 58, "N/A")
 array.set(event_previous, 58, "N/A")
 
-// 59: FOMC Economic Projections - High - Federal Reserve (Hardcoded)
-array.set(event_names, 59, "FOMC Economic Projections")
-array.set(event_times_utc, 59, timestamp("UTC", 2026, 12, 16, 0, 0))
+// 59: FOMC Press Conference - High - Federal Reserve (Hardcoded)
+array.set(event_names, 59, "FOMC Press Conference")
+array.set(event_times_utc, 59, timestamp("UTC", 2026, 12, 16, 0, 30))
 array.set(event_impact, 59, "High")
 array.set(event_forecast, 59, "N/A")
 array.set(event_previous, 59, "N/A")
 
-// 60: FOMC Press Conference - High - Federal Reserve (Hardcoded)
-array.set(event_names, 60, "FOMC Press Conference")
-array.set(event_times_utc, 60, timestamp("UTC", 2026, 12, 16, 0, 30))
+// 60: Housing Starts - High - Hardcoded Schedule
+array.set(event_names, 60, "Housing Starts")
+array.set(event_times_utc, 60, timestamp("UTC", 2026, 12, 18, 17, 30))
 array.set(event_impact, 60, "High")
 array.set(event_forecast, 60, "N/A")
 array.set(event_previous, 60, "N/A")
 
-// 61: Housing Starts - High - Hardcoded Schedule
-array.set(event_names, 61, "Housing Starts")
+// 61: Building Permits - Medium - Hardcoded Schedule
+array.set(event_names, 61, "Building Permits")
 array.set(event_times_utc, 61, timestamp("UTC", 2026, 12, 18, 17, 30))
-array.set(event_impact, 61, "High")
+array.set(event_impact, 61, "Medium")
 array.set(event_forecast, 61, "N/A")
 array.set(event_previous, 61, "N/A")
 
-// 62: Building Permits - Medium - Hardcoded Schedule
-array.set(event_names, 62, "Building Permits")
-array.set(event_times_utc, 62, timestamp("UTC", 2026, 12, 18, 17, 30))
+// 62: Durable Goods Orders - Medium - Hardcoded Schedule
+array.set(event_names, 62, "Durable Goods Orders")
+array.set(event_times_utc, 62, timestamp("UTC", 2026, 12, 25, 17, 30))
 array.set(event_impact, 62, "Medium")
 array.set(event_forecast, 62, "N/A")
 array.set(event_previous, 62, "N/A")
 
-// 63: Durable Goods Orders - Medium - Hardcoded Schedule
-array.set(event_names, 63, "Durable Goods Orders")
-array.set(event_times_utc, 63, timestamp("UTC", 2026, 12, 25, 17, 30))
-array.set(event_impact, 63, "Medium")
+// 63: Existing Home Sales - High - Hardcoded Schedule
+array.set(event_names, 63, "Existing Home Sales")
+array.set(event_times_utc, 63, timestamp("UTC", 2026, 12, 25, 19, 0))
+array.set(event_impact, 63, "High")
 array.set(event_forecast, 63, "N/A")
 array.set(event_previous, 63, "N/A")
 
-// 64: Existing Home Sales - High - Hardcoded Schedule
-array.set(event_names, 64, "Existing Home Sales")
-array.set(event_times_utc, 64, timestamp("UTC", 2026, 12, 25, 19, 0))
-array.set(event_impact, 64, "High")
+// 64: Personal Income - Medium - Hardcoded Schedule
+array.set(event_names, 64, "Personal Income")
+array.set(event_times_utc, 64, timestamp("UTC", 2026, 12, 27, 17, 30))
+array.set(event_impact, 64, "Medium")
 array.set(event_forecast, 64, "N/A")
 array.set(event_previous, 64, "N/A")
 
-// 65: Personal Income - Medium - Hardcoded Schedule
-array.set(event_names, 65, "Personal Income")
+// 65: PCE Price Index - High - Hardcoded Schedule
+array.set(event_names, 65, "PCE Price Index")
 array.set(event_times_utc, 65, timestamp("UTC", 2026, 12, 27, 17, 30))
-array.set(event_impact, 65, "Medium")
+array.set(event_impact, 65, "High")
 array.set(event_forecast, 65, "N/A")
 array.set(event_previous, 65, "N/A")
 
-// 66: PCE Price Index - High - Hardcoded Schedule
-array.set(event_names, 66, "PCE Price Index")
-array.set(event_times_utc, 66, timestamp("UTC", 2026, 12, 27, 17, 30))
-array.set(event_impact, 66, "High")
+// 66: Personal Spending - Medium - Hardcoded Schedule
+array.set(event_names, 66, "Personal Spending")
+array.set(event_times_utc, 66, timestamp("UTC", 2026, 12, 27, 18, 30))
+array.set(event_impact, 66, "Medium")
 array.set(event_forecast, 66, "N/A")
 array.set(event_previous, 66, "N/A")
 
-// 67: Personal Spending - Medium - Hardcoded Schedule
-array.set(event_names, 67, "Personal Spending")
-array.set(event_times_utc, 67, timestamp("UTC", 2026, 12, 27, 18, 30))
+// 67: New Home Sales - Medium - Hardcoded Schedule
+array.set(event_names, 67, "New Home Sales")
+array.set(event_times_utc, 67, timestamp("UTC", 2026, 12, 28, 19, 0))
 array.set(event_impact, 67, "Medium")
 array.set(event_forecast, 67, "N/A")
 array.set(event_previous, 67, "N/A")
-
-// 68: New Home Sales - Medium - Hardcoded Schedule
-array.set(event_names, 68, "New Home Sales")
-array.set(event_times_utc, 68, timestamp("UTC", 2026, 12, 28, 19, 0))
-array.set(event_impact, 68, "Medium")
-array.set(event_forecast, 68, "N/A")
-array.set(event_previous, 68, "N/A")
