@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-10-03T03:36:39.048951+00:00",
-    "total_events": 68,
+    "generated_utc": "2026-10-04T04:06:21.339235+00:00",
+    "total_events": 67,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-10-04T03:36:39.048962+00:00"
+    "next_update": "2026-10-05T04:06:21.339248+00:00"
   },
   "events": [
     {
@@ -204,17 +204,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1789601400000
-    },
-    {
-      "name": "ISM Services PMI",
-      "time_utc": "2026-10-03T16:00:00+00:00",
-      "time_bkk": "2026-10-03T23:00:00+07:00",
-      "impact": "Medium",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1791043200000
     },
     {
       "name": "Jobless Claims",
