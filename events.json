@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-10-12T04:06:52.725307+00:00",
-    "total_events": 65,
+    "generated_utc": "2026-10-13T05:16:03.262762+00:00",
+    "total_events": 64,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-10-13T04:06:52.725311+00:00"
+    "next_update": "2026-10-14T05:16:03.262776+00:00"
   },
   "events": [
     {
@@ -204,17 +204,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1789601400000
-    },
-    {
-      "name": "CPI Release",
-      "time_utc": "2026-10-12T16:30:00+00:00",
-      "time_bkk": "2026-10-12T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1791822600000
     },
     {
       "name": "PPI Release",
