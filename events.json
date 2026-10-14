@@ -1,10 +1,10 @@
 {
   "metadata": {
-    "generated_utc": "2026-10-13T05:16:03.262762+00:00",
-    "total_events": 64,
+    "generated_utc": "2026-10-14T03:21:21.627787+00:00",
+    "total_events": 62,
     "timezone_display": "BKK (UTC+7)",
     "timezone_utc": "UTC",
-    "next_update": "2026-10-14T05:16:03.262776+00:00"
+    "next_update": "2026-10-15T03:21:21.627794+00:00"
   },
   "events": [
     {
@@ -204,28 +204,6 @@
       "actual": null,
       "source": "Federal Reserve (Hardcoded)",
       "timestamp_utc_ms": 1789601400000
-    },
-    {
-      "name": "PPI Release",
-      "time_utc": "2026-10-13T16:30:00+00:00",
-      "time_bkk": "2026-10-13T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1791909000000
-    },
-    {
-      "name": "Retail Sales",
-      "time_utc": "2026-10-13T16:30:00+00:00",
-      "time_bkk": "2026-10-13T23:30:00+07:00",
-      "impact": "High",
-      "forecast": null,
-      "previous": null,
-      "actual": null,
-      "source": "Hardcoded Schedule",
-      "timestamp_utc_ms": 1791909000000
     },
     {
       "name": "Housing Starts",
